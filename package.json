@@ -1,0 +1,11 @@
+{
+  "name": "simple-cli",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "./cli/index.js",
+  "scripts": {
+    "start": "node ./cli/index.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
